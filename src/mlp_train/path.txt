@@ -1,0 +1,1 @@
+/home/kaidi-liang/software/Machine_Learning_Data/MNIST
